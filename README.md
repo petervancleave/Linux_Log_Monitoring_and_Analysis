@@ -43,5 +43,6 @@ To set up and run the project:
 
 ## Future
 -Integrate SMS Alerts (Twilio API)
+
 -Automate Execution of the scripts
 
