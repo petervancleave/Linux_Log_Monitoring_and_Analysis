@@ -1,4 +1,4 @@
-# Linux Log Monitoring and Analysis
+# Linux Log Monitoring Tool
 
 ## Who
 This project is designed for anyone interested in monitoring system activity to detect unauthorized access and suspicious behavior. I have been using these scripts for my own purposes and they are quite useful.
